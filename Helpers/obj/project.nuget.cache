@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JAIfSCZzEQksWdZaTRHE0L6dwKJO/SJyRPTfk9W4V/uHoYNdhj2mW9qqawA00zv6vAOGQFFiHzsRh8vTiC6E+A==",
+  "dgSpecHash": "SznVLhroXgDHCN45JFgerRhCxbb2OFKTZV8elFPy4sglNeUcK/9e8QeFIQ+Sr/YLqxkOaiafP5yZS/AxMQJ/ZA==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Sistema Financeiro 2023\\Financeiro_2023\\Helpers\\Helpers.csproj",
+  "projectFilePath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Helpers\\Helpers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

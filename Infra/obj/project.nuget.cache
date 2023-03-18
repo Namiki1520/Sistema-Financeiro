@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O+I+X/42yQfDWBGIDIyrHhqnI050MEXN8PGt7bM7SSvH+1AGfdCrLwqs/bitowTjtUcJouOWJ3Ei+ydgQ+DaAg==",
+  "dgSpecHash": "tiqsjQNV/KnbkkwhV3V0/IJdgvY8DzRcWD175Txk7hxpzBSC64E2ZbeNeLdj6/T0prKfO6coCbCQD9rA5ZF4RA==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Sistema Financeiro 2023\\Financeiro_2023\\Infra\\Infra.csproj",
+  "projectFilePath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Infra\\Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jairo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\jairo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -10,3 +10,15 @@ D:\Projetos\Sistema Financeiro 2023\Financeiro_2023\Helpers\obj\Debug\net7.0\Hel
 D:\Projetos\Sistema Financeiro 2023\Financeiro_2023\Helpers\obj\Debug\net7.0\refint\Helpers.dll
 D:\Projetos\Sistema Financeiro 2023\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.pdb
 D:\Projetos\Sistema Financeiro 2023\Financeiro_2023\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\bin\Debug\net7.0\Helpers.deps.json
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\bin\Debug\net7.0\Helpers.dll
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\bin\Debug\net7.0\Helpers.pdb
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\obj\Debug\net7.0\Helpers.dll
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\obj\Debug\net7.0\Helpers.pdb
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Helpers\obj\Debug\net7.0\ref\Helpers.dll
