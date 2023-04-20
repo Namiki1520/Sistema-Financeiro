@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces.InterfaceServicos
 {
-    public interface IUsuarioSistemaFinanceiro
+    public interface IUsuarioSistemaFinanceiroServico
     {
         Task CadastrarUsuarioNoSistema(UsuarioSistemaFinanceiro usuarioSistemaFinanceiro);
     }

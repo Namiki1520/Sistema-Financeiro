@@ -122,3 +122,4 @@ D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\re
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\WebApi.pdb
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

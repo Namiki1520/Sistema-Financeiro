@@ -40,7 +40,7 @@ namespace Infra.Configuracao
         {
             //return "Data Source=.\SQLexpress;Initial Catalog=FINANCEIRO_2023;Integrated Security=False;User ID=sa;Password=asd;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False";
 
-            return "Data Source=DESKTOP-42UINND;Initial Catalog=FINANCEIRO_2023;Integrated Security=True"; // Evitar
+            return "Data Source=DESKTOP-42UINND\\SQLEXPRESS;Initial Catalog=FINANCEIRO_2023;Integrated Security=True;TrustServerCertificate=true"; // Evitar
         }
 
 
