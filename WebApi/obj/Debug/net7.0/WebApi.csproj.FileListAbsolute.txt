@@ -106,7 +106,6 @@ D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\We
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
-D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
