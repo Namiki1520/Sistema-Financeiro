@@ -9,17 +9,22 @@ namespace Entities.Notificacoes
 {
     public class Notifica
     {
+
         public Notifica()
         {
             notificacoes = new List<Notifica>();
         }
+
+
         [NotMapped]
         public string NomePropriedade { get; set; }
+
         [NotMapped]
         public string mensagem { get; set; }
 
         [NotMapped]
         public List<Notifica> notificacoes;
+
 
         public bool ValidarPropriedadeString(string valor, string nomePropriedade)
         {
@@ -55,5 +60,6 @@ namespace Entities.Notificacoes
             return true;
 
         }
+
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xi6rMBP87YRY1CPmx08YrG1+iL/MK/fWtnrrQmTYHtl7U9DrvOzIz+Tpm0iWRQgitYk/tF8goLneWaUmJrDmWA==",
+  "dgSpecHash": "l4OmYmbqdDc1OF8qah7BtQu2FzALsBh9q5+6LxjCIMURlofvXHh1Ngs9DN1bWc8AsqOAMZyr1o9723MgO0bytA==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jairo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\jairo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

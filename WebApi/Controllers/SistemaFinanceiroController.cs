@@ -1,5 +1,6 @@
 ﻿using Domain.Interfaces.InterfaceServicos;
 using Domain.Interfaces.ISistemaFinanceiro;
+using Domain.Servicos;
 using Entities.Entidades;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -21,9 +22,9 @@ namespace WebApi.Controllers
             _iSistemaFinanceiroServico = iSistemaFinanceiroServico;
         }
 
-        [HttpGet("/api/ListaSistemaUsuario")]
+        [HttpGet("/api/ListaSistemasUsuario")]
         [Produces("application/json")]
-        public async Task<object> ListaSistemaUsuario(string emailUsuario)
+        public async Task<object> ListaSistemasUsuario(string emailUsuario)
         {
             return await _interfaceSistemaFinanceiro.ListaSistemasUsuario(emailUsuario);
         }
@@ -33,7 +34,8 @@ namespace WebApi.Controllers
         public async Task<object> AdicionarSistemaFinanceiro(SistemaFinanceiro sistemaFinanceiro)
         {
             await _iSistemaFinanceiroServico.AdicionarSistemaFinanceiro(sistemaFinanceiro);
-            return Task.FromResult(sistemaFinanceiro);
+
+            return sistemaFinanceiro;
         }
 
         [HttpPut("/api/AtualizarSistemaFinanceiro")]

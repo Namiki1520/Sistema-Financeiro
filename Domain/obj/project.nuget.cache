@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uPZkxoIK/kkaCcJKxJjFItIBbuEFLMp2JrGiKrODx+mEeN+B/VSQBUMnYzizqk9Nll+l6N9SOvyV1k6r5Rj32g==",
+  "dgSpecHash": "lZSmnhbaP2aCm+Gcvr+1U/KAjVEnDljv0LLS/JLI0veZmVIB0UO65+N1D3guoY0ZSVFjGjzYrR4SBSjrWArYEg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jairo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.3\\microsoft.aspnetcore.cryptography.internal.7.0.3.nupkg.sha512",
     "C:\\Users\\jairo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.3\\microsoft.aspnetcore.cryptography.keyderivation.7.0.3.nupkg.sha512",

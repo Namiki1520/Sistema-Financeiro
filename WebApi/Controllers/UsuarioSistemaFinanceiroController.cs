@@ -1,5 +1,6 @@
 ﻿using Domain.Interfaces.InterfaceServicos;
 using Domain.Interfaces.IUsuarioSistemaFinanceiro;
+using Domain.Servicos;
 using Entities.Entidades;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -35,21 +36,23 @@ namespace WebApi.Controllers
             try
             {
                 await _iUsuarioSistemaFinanceiroServico.CadastrarUsuarioNoSistema(
-                new UsuarioSistemaFinanceiro
-                {
-                    IdSistema = idSistema,
-                    EmailUsuario = emailUsuario,
-                    Administrador = false,
-                    SistemaAtual = true
-                });
+                   new UsuarioSistemaFinanceiro
+                   {
+                       IdSistema = idSistema,
+                       EmailUsuario = emailUsuario,
+                       Administrador = false,
+                       SistemaAtual = true
+                   });
             }
             catch (Exception)
             {
                 return Task.FromResult(false);
             }
-            return Task.FromResult(true);            
+
+            return Task.FromResult(true);
+
         }
-        
+
         [HttpDelete("/api/DeleteUsuarioNoSistemaFinanceiro")]
         [Produces("application/json")]
         public async Task<object> DeleteUsuarioNoSistemaFinanceiro(int idSistema, string emailUsuario)

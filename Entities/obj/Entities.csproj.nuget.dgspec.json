@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\Entities.csproj": {}
+    "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\Entities.csproj": {
+    "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\obj\\",
+        "outputPath": "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "e:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
