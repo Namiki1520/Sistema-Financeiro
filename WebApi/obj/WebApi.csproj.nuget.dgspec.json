@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\WebApi\\WebApi.csproj": {}
+    "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Domain\\Domain.csproj": {
+    "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Domain\\obj\\",
+        "outputPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "e:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\Entities.csproj"
+              "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Entities\\Entities.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\Entities.csproj": {
+    "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\obj\\",
+        "outputPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "e:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -132,14 +132,14 @@
         }
       }
     },
-    "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Infra\\Infra.csproj": {
+    "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Infra\\Infra.csproj",
+        "projectUniqueName": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Infra\\Infra.csproj",
+        "projectPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Infra\\obj\\",
+        "outputPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "e:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,11 +160,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Domain\\Domain.csproj"
+              "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Domain\\Domain.csproj"
               },
-              "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Entities\\Entities.csproj"
+              "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Entities\\Entities.csproj"
               }
             }
           }
@@ -204,14 +204,14 @@
         }
       }
     },
-    "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\WebApi\\WebApi.csproj": {
+    "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\WebApi\\obj\\",
+        "outputPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "e:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -232,8 +232,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Infra\\Infra.csproj": {
-                "projectPath": "D:\\Projetos\\Sistema Financeiro 2023\\SistemaFinanceiro\\Infra\\Infra.csproj"
+              "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Infra\\Infra.csproj": {
+                "projectPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Infra\\Infra.csproj"
               }
             }
           }

@@ -71,9 +71,9 @@ namespace WebApi.Controllers
             return true;
         }
 
-        [HttpGet("/api/CarregaGraficos")]
+        [HttpGet("/api/CarregaGraficosDespesas")]
         [Produces("application/json")]
-        public async Task<object> CarregaGraficos(string emailUsuario)
+        public async Task<object> CarregaGraficosDespesas(string emailUsuario)
         {
             return await _iDespesaServico.CarregaGraficos(emailUsuario);
         }

@@ -25,3 +25,33 @@ D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Domain\obj\Debug\net7.0\Do
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Domain\obj\Debug\net7.0\refint\Domain.dll
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Domain\obj\Debug\net7.0\Domain.pdb
 D:\Projetos\Sistema Financeiro 2023\SistemaFinanceiro\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\bin\Debug\net7.0\Domain.dll
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\bin\Debug\net7.0\Entities.dll
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\bin\Debug\net7.0\Entities.pdb
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\obj\Debug\net7.0\Domain.dll
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Projetos\Sistema Financeiro 2023 dev net - Copia\SistemaFinanceiro\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\bin\Debug\net7.0\Domain.dll
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\bin\Debug\net7.0\Entities.dll
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\bin\Debug\net7.0\Entities.pdb
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\obj\Debug\net7.0\Domain.dll
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Projetos\Sistema Financeiro Paralelo\SistemaFinanceiro.service\Domain\obj\Debug\net7.0\ref\Domain.dll

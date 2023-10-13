@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infra.Migrations
 {
     [DbContext(typeof(ContextBase))]
-    [Migration("20230420011259_Inicial")]
+    [Migration("20230521173528_Inicial")]
     partial class Inicial
     {
         /// <inheritdoc />
@@ -113,8 +113,6 @@ namespace Infra.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("IdSistema");
-
                     b.ToTable("Categoria");
                 });
 
@@ -166,9 +164,46 @@ namespace Infra.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("IdCategoria");
-
                     b.ToTable("Despesa");
+                });
+
+            modelBuilder.Entity("Entities.Entidades.Receita", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("Ano")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("DataAlteracao")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("DataCadastro")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("IdCategoria")
+                        .HasColumnType("int")
+                        .HasColumnOrder(1);
+
+                    b.Property<int>("Mes")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("TipoReceita")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("Valor")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Receita");
                 });
 
             modelBuilder.Entity("Entities.Entidades.SistemaFinanceiro", b =>
@@ -370,28 +405,6 @@ namespace Infra.Migrations
                     b.HasKey("UserId", "LoginProvider", "Name");
 
                     b.ToTable("AspNetUserTokens", (string)null);
-                });
-
-            modelBuilder.Entity("Entities.Entidades.Categoria", b =>
-                {
-                    b.HasOne("Entities.Entidades.SistemaFinanceiro", "SistemaFinanceiro")
-                        .WithMany()
-                        .HasForeignKey("IdSistema")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("SistemaFinanceiro");
-                });
-
-            modelBuilder.Entity("Entities.Entidades.Despesa", b =>
-                {
-                    b.HasOne("Entities.Entidades.Categoria", "Categoria")
-                        .WithMany()
-                        .HasForeignKey("IdCategoria")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Categoria");
                 });
 
             modelBuilder.Entity("Entities.Entidades.UsuarioSistemaFinanceiro", b =>
