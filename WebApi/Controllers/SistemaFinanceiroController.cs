@@ -16,7 +16,8 @@ namespace WebApi.Controllers
     {
         private readonly InterfaceSistemaFinanceiro _interfaceSistemaFinanceiro;
         private readonly ISistemaFinanceiroServico _iSistemaFinanceiroServico;
-        public SistemaFinanceiroController(InterfaceSistemaFinanceiro interfaceSistemaFinanceiro, ISistemaFinanceiroServico iSistemaFinanceiroServico)
+        public SistemaFinanceiroController(InterfaceSistemaFinanceiro interfaceSistemaFinanceiro, 
+            ISistemaFinanceiroServico iSistemaFinanceiroServico)
         {
             _interfaceSistemaFinanceiro = interfaceSistemaFinanceiro;
             _iSistemaFinanceiroServico = iSistemaFinanceiroServico;
