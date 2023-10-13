@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Helpers\\Helpers.csproj": {}
+    "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Helpers\\Helpers.csproj": {}
   },
   "projects": {
-    "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Helpers\\Helpers.csproj": {
+    "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Helpers\\Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Helpers\\Helpers.csproj",
+        "projectUniqueName": "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Helpers\\Helpers.csproj",
         "projectName": "Helpers",
-        "projectPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Helpers\\Helpers.csproj",
+        "projectPath": "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Helpers\\Helpers.csproj",
         "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Helpers\\obj\\",
+        "outputPath": "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "e:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -774,11 +774,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Entities\\Entities.csproj",
+      "projectPath": "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositorio\\Sistema Financeiro Paralelo\\SistemaFinanceiro.service\\Entities\\obj\\",
+      "outputPath": "D:\\Repositorio\\Sistema Financeiro 2023 dev net\\SistemaFinanceiro.server\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "e:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"

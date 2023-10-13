@@ -21,9 +21,9 @@ namespace WebApi.Controllers
             _iSistemaFinanceiroServico = iSistemaFinanceiroServico;
         }
 
-        [HttpGet("/api/ListaSistemaUsuario")]
+        [HttpGet("/api/ListaSistemasUsuario")]
         [Produces("application/json")]
-        public async Task<object> ListaSistemaUsuario(string emailUsuario)
+        public async Task<object> ListaSistemasUsuario(string emailUsuario)
         {
             return await _interfaceSistemaFinanceiro.ListaSistemasUsuario(emailUsuario);
         }
