@@ -34,14 +34,3 @@ D:\Projetos\Sistema Financeiro 2023 dev net\SistemaFinanceiro\Helpers\obj\Debug\
 D:\Projetos\Sistema Financeiro 2023 dev net\SistemaFinanceiro\Helpers\obj\Debug\net7.0\refint\Helpers.dll
 D:\Projetos\Sistema Financeiro 2023 dev net\SistemaFinanceiro\Helpers\obj\Debug\net7.0\Helpers.pdb
 D:\Projetos\Sistema Financeiro 2023 dev net\SistemaFinanceiro\Helpers\obj\Debug\net7.0\ref\Helpers.dll
-D:\Repositorio\Sistema Financeiro 2023 dev net\SistemaFinanceiro.server\Helpers\bin\Debug\net7.0\Helpers.deps.json
-D:\Repositorio\Sistema Financeiro 2023 dev net\SistemaFinanceiro.server\Helpers\bin\Debug\net7.0\Helpers.dll
-D:\Repositorio\Sistema Financeiro 2023 dev net\SistemaFinanceiro.server\Helpers\bin\Debug\net7.0\Helpers.pdb
-D:\Repositorio\Sistema Financeiro 2023 dev net\SistemaFinanceiro.server\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
-D:\Repositorio\Sistema Financeiro 2023 dev net\SistemaFinanceiro.server\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
-D:\Repositorio\Sistema Financeiro 2023 dev net\SistemaFinanceiro.server\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
-D:\Repositorio\Sistema Financeiro 2023 dev net\SistemaFinanceiro.server\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
-D:\Repositorio\Sistema Financeiro 2023 dev net\SistemaFinanceiro.server\Helpers\obj\Debug\net7.0\Helpers.dll
-D:\Repositorio\Sistema Financeiro 2023 dev net\SistemaFinanceiro.server\Helpers\obj\Debug\net7.0\refint\Helpers.dll
-D:\Repositorio\Sistema Financeiro 2023 dev net\SistemaFinanceiro.server\Helpers\obj\Debug\net7.0\Helpers.pdb
-D:\Repositorio\Sistema Financeiro 2023 dev net\SistemaFinanceiro.server\Helpers\obj\Debug\net7.0\ref\Helpers.dll
