@@ -19,6 +19,7 @@ namespace Infra.Configuracao
         public DbSet<UsuarioSistemaFinanceiro> UsuarioSistemaFinanceiro { set; get; }
         public DbSet<Categoria> Categoria { set; get; }
         public DbSet<Despesa> Despesa { set; get; }
+        public DbSet<Receita> Receita { set; get; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -40,7 +41,7 @@ namespace Infra.Configuracao
         {
             //return "Data Source=.\SQLexpress;Initial Catalog=FINANCEIRO_2023;Integrated Security=False;User ID=sa;Password=asd;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False";
 
-            return "Data Source=DESKTOP-42UINND\\SQLEXPRESS;Initial Catalog=FINANCEIRO_2023;Integrated Security=True;TrustServerCertificate=true"; // Evitar
+            return "Data Source=DESKTOP-42UINND\\SQLEXPRESS;Initial Catalog=FINANCEIRO_2023_RECEITA;Integrated Security=True;TrustServerCertificate=true"; // Evitar
         }
 
 
