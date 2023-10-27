@@ -1,10 +1,7 @@
-﻿using Domain.Interfaces.ICategoria;
-using Domain.Interfaces.IDespesa;
+﻿using Domain.Interfaces.IDespesa;
 using Domain.Interfaces.InterfaceServicos;
-using Domain.Servicos;
 using Entities.Entidades;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApi.Controllers
